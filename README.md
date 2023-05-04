@@ -12,3 +12,5 @@
 </div>
 
 Live Demo [aqui](https://gmarcondes00.github.io/quote-machine/)
+
+Visualizar o código na branch master 😊
